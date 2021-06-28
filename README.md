@@ -1,0 +1,2 @@
+# stationary
+bootstrap via gitdesktop
